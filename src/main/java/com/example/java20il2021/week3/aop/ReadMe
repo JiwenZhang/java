@@ -5,3 +5,9 @@ implement PointCut, AfterReturn, AfterThrow
 
 What I have implemented:
 AfterReturn, AfterThrow
+
+In order to test AfterThrow annotation, I added one more method called test in EmployeeeService. 
+This method throws a NullPointerException and it will be caught by InvocationTargetException.
+
+Results:
+Two annotations works well.
