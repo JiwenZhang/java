@@ -1,0 +1,7 @@
+AOP Homework
+
+Task:
+implement PointCut, AfterReturn, AfterThrow
+
+What I have implemented:
+AfterReturn, AfterThrow
